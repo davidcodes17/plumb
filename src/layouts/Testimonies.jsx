@@ -29,7 +29,7 @@ const Testimonies = () => {
           image={
             "https://img.freepik.com/free-photo/confident-business-woman-portrait-smiling-face_53876-137693.jpg?w=740&t=st=1707312539~exp=1707313139~hmac=3c4f6c072136d471578e3b89de222cdfd047cca33109531701c8aff620280b1a"
           }
-          name={"Esther Anderson"}
+          name={"Lori Field"}
           company={"Microsoft"}
           testimony={
             "Fantastic job done by Rick’s Plumbing, the whole team worked hard on a huge project in my furnace room. They took it from an ugly mess of piping to a beautifully organized areaƒ"
@@ -39,20 +39,20 @@ const Testimonies = () => {
           image={
             "https://img.freepik.com/free-photo/handsome-man-smiling-happy-face-portrait-close-up_53876-139608.jpg?w=740&t=st=1707313441~exp=1707314041~hmac=f4fdede70854ae687e6b6ac43bf6c3c91664f4bc8d35d4ff2ac5cc20adfbe1cd"
           }
-          name={"Fredrick Mark"}
+          name={"Stefanie Willson"}
           company={"Facebook"}
           testimony={
-            "Fantastic job done by Rick’s Plumbing, the whole team worked hard on a huge project in my furnace room. They took it from an ugly mess of piping to a beautifully organized areaƒ"
+            "Excellent professional service. Scott explained everything he was going to do before he did it and resolved the issue at a reasonable cost"
           }
         />
         <Testimony
           image={
             "https://img.freepik.com/free-photo/senior-man-face-portrait-wearing-bowler-hat_53876-148154.jpg?w=740&t=st=1707313461~exp=1707314061~hmac=5f28c824d112246d9b47ce23ba8bf4fd8390ed1874b79fb43013da164656795f"
           }
-          name={"Alexander Gray"}
+          name={"Martha Stew"}
           company={"Hot Grills"}
           testimony={
-            "Fantastic job done by Rick’s Plumbing, the whole team worked hard on a huge project in my furnace room. They took it from an ugly mess of piping to a beautifully organized areaƒ"
+            "I called, left a message and a lovely live human called me back, asked what I needed and booked an appointment. Johnathan called me to zero in on exact time, called before coming and did a wonderful job fixing two of our toilets."
           }
         />
         <Testimony
@@ -62,7 +62,7 @@ const Testimonies = () => {
           name={"Peneloper Smith"}
           company={"Tesla"}
           testimony={
-            "Fantastic job done by Rick’s Plumbing, the whole team worked hard on a huge project in my furnace room. They took it from an ugly mess of piping to a beautifully organized areaƒ"
+            "We had an outdoor water spigot that did not have a shut off valve. We wanted to make sure we could turn it off for winter."
           }
         />
       </Flex>
