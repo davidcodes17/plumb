@@ -38,7 +38,7 @@ const Testimony = ({ name, company, testimony, image }) => {
           >
             <Text
               fontWeight={800}
-              fontSize={{ lg: 15, md: 20, sm: 20, base: 20 }}
+              fontSize={{ lg: 15, md: 20, sm: 20, base: 15 }}
             >
               {name}
             </Text>
@@ -56,7 +56,7 @@ const Testimony = ({ name, company, testimony, image }) => {
           </Flex>
           <Text
             fontWeight={"400"}
-            fontSize={{ lg: 10, md: 10, sm: 15, base: 15 }}
+            fontSize={{ lg: 10, md: 10, sm: 15, base: 12 }}
           >
             {testimony}
           </Text>
