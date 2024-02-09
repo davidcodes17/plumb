@@ -31,15 +31,14 @@ const Testimony = ({ name, company, testimony, image }) => {
           borderBottomRadius={{ lg: 0, md: 0, sm: 20, base: 20 }}
         >
           <Flex
-            gap={{ lg: 2, md: 2, sm: 5, base: 0 }}
+            gap={{ lg: 2, md: 2, sm: 5, base: 5 }}
             alignItems={"center"}
-            pb={{ lg: 2, md: 0, sm: 2, base: 4 }}
+            pb={{ lg: 2, md: 0, sm: 2, base: 2 }}
             flexWrap={"wrap"}
           >
             <Text
               fontWeight={800}
               fontSize={{ lg: 15, md: 20, sm: 20, base: 20 }}
-              pb={{ lg: 0, md: 0, sm: 0, base: 2 }}
             >
               {name}
             </Text>
@@ -57,7 +56,7 @@ const Testimony = ({ name, company, testimony, image }) => {
           </Flex>
           <Text
             fontWeight={"400"}
-            fontSize={{ lg: 10, md: 10, sm: 15, base: 8 }}
+            fontSize={{ lg: 10, md: 10, sm: 15, base: 15 }}
           >
             {testimony}
           </Text>

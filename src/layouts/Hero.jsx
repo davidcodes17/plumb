@@ -9,7 +9,7 @@ const Hero = () => {
         width={{ lg: 700, md: 600, sm: "100%", base: "100%" }}
         // color={"rgb(6, 24, 41)"}
         color={"#ddd"}
-        fontSize={{ lg: 80, md: 60, sm: 50, base: 30 }}
+        fontSize={{ lg: 80, md: 60, sm: 50, base: 40 }}
       >
         Warmly greet visitors and briefly introduce your plumbing services.
       </Heading>
@@ -31,14 +31,14 @@ const Hero = () => {
           bg={"rgb(6, 24, 41)"}
           color={"#fff"}
           _hover={"none"}
-          fontFamily={"Gloock"}
+          fontFamily={"Manrope"}
         >
           Call Us Now !
         </Button>
         <Button
           fontSize={20}
           bg={"transparent"}
-          fontFamily={"Gloock"}
+          fontFamily={"Manrope"}
           color={"#fff"}
           _hover={"none"}
           textDecoration={"underline"}

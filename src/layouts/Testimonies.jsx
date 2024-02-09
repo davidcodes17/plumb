@@ -13,7 +13,7 @@ const Testimonies = () => {
       </Grid> */}
       <Heading
         fontFamily={"Anton"}
-        fontSize={{ lg: 80, md: 70, sm: 40, base: "30px" }}
+        fontSize={{ lg: 80, md: 70, sm: 40, base: "40px" }}
         my={10}
         textAlign={"center"}
       >

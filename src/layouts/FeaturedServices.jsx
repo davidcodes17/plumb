@@ -9,7 +9,7 @@ const FeaturedServices = () => {
         textAlign={"center"}
         pb={{ lg: 10 }}
         fontFamily={"Anton"}
-        fontSize={{ lg: 80, md: 70, sm: 40, base: "30px" }}
+        fontSize={{ lg: 80, md: 70, sm: 40, base: "40px" }}
       >
         Featured Services
       </Heading>
